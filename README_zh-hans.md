@@ -76,8 +76,6 @@ graph TB
   - [Windows 10 ISO](https://www.microsoft.com/software-download/windows10ISO)  
 - 网络和 Windows Server 的基础知识
 
-> ⚠️ 注意：上述 Microsoft 页面目前无法访问，请尝试其他方式获取 ISO 文件，如通过官方评估中心或 MSDN。
-
 ---
 
 ## 开始之前
