@@ -1,4 +1,14 @@
+English | [简体中文](README_zh-hans.md)
+
 # Enterprise Network Setup with Windows Server
+
+<p align="center">
+    <a href="https://github.com/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server"><img alt="Github repo" src="https://img.shields.io/github/last-commit/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server?logo=github"></a>
+    <a href="https://gitee.com/HexWarrior6/enterprise-network-setup-with-windows-server"><img alt="Gitee repo" src="https://img.shields.io/badge/Gitee-repo-red?logo=gitee"></a>
+    <a href="https://github.com/huggingface/transformers/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server.svg?color=blue"></a>
+</p>
+
+---
 
 A comprehensive lab guide for building a full-scale enterprise network environment using:
 
@@ -91,5 +101,3 @@ This project walks you through the entire process of setting up a simulated ente
 ## Contributing / Feedback
 
 Feel free to open issues or pull requests if you have suggestions, corrections, or want to contribute additional chapters!
-
----
