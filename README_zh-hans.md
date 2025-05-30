@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://github.com/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server"><img alt="GitHub 仓库" src="https://img.shields.io/github/last-commit/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server?logo=github"></a>
     <a href="https://gitee.com/HexWarrior6/enterprise-network-setup-with-windows-server"><img alt="Gitee 仓库" src="https://img.shields.io/badge/Gitee-repo-red?logo=gitee"></a>
-    <a href="https://github.com/huggingface/transformers/blob/main/LICENSE"><img alt="许可证" src="https://img.shields.io/github/license/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server.svg?color=blue"></a>
+    <a href="https://github.com/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server/blob/master/LICENSE"><img alt="许可证" src="https://img.shields.io/github/license/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server.svg?color=blue"></a>
 </p>
 
 ---
@@ -88,13 +88,13 @@ graph TB
 
 ## 章节列表
 
-| 章节 | 主题                                                                 |
-|----|--------------------------------------------------------------------|
-| 01 | 🖥️ [使用 Hyper-V 创建虚拟机](01_VM_Setup/README.md)                      |
-| 02 | 🔐 [Active Directory 域服务安装配置](02_AD_Domain/README.md)              |
-| 03 | 📡 [DHCP 服务器配置](03_DHCP_Server/README.md)                          |
-| 04 | 📁 [DFS（分布式文件系统）实现文件共享](04_DFS_File_Sharing/README.md)             |
-| 05 | 👥 [AD 用户与组管理 + PowerShell 自动化](05_Auto_User_Management/README.md) |
+| 章节 | 主题                                                                         |
+|----|----------------------------------------------------------------------------|
+| 01 | 🖥️ [使用 Hyper-V 创建虚拟机](01_VM_Setup/README_zh-hans.md)                      |
+| 02 | 🔐 [Active Directory 域服务安装配置](02_AD_Domain/README_zh-hans.md)              |
+| 03 | 📡 [DHCP 服务器配置](03_DHCP_Server/README_zh-hans.md)                          |
+| 04 | 📁 [DFS（分布式文件系统）实现文件共享](04_DFS_File_Sharing/README_zh-hans.md)             |
+| 05 | 👥 [AD 用户与组管理 + PowerShell 自动化](05_Auto_User_Management/README_zh-hans.md) |
 
 ---
 
