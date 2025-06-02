@@ -173,6 +173,14 @@
 
 ---
 
+## 添加示例文件
+
+打开资源管理器，在 `C:\DFSRoots\bread-makers DFS` 文件夹中解压并添加以下的文件作为示例：[bread-makers DFS.zip](bread-makers%20DFS.zip)
+
+这些文件将会在下一章的内容中进一步添加权限和使用
+
+---
+
 ## 总结
 
 在本章中，我们完成了以下任务：
