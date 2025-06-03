@@ -102,3 +102,9 @@ This project walks you through the entire process of setting up a simulated ente
 ## Contributing / Feedback
 
 Feel free to open issues or pull requests if you have suggestions, corrections, or want to contribute additional chapters!
+
+---
+
+## License
+
+This project is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

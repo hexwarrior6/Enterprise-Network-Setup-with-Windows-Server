@@ -102,3 +102,9 @@ graph TB
 ## 贡献 / 反馈建议
 
 如果你有任何建议、发现错误或希望贡献新的章节，请随时转到 [github 仓库](https://github.com/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server) 提交 Issues 或 Pull Requests！
+
+---
+
+## License
+
+本项目根据 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证获得许可。
