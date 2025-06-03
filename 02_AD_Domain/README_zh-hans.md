@@ -1,4 +1,4 @@
-# Active Directory 域服务安装配置
+# 第二章：Active Directory 域服务安装配置
 > 本章节将介绍如何在 Windows Server 2022 上安装和配置 Active Directory 域服务（AD DS），并将两台 Windows 10 虚拟机加入到同一个域中。  
 > DNS 服务会自动随着 AD DS 一起安装，无需额外配置。
 

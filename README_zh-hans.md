@@ -5,6 +5,7 @@
 <p align="center">
     <a href="https://github.com/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server"><img alt="GitHub 仓库" src="https://img.shields.io/github/last-commit/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server?logo=github"></a>
     <a href="https://gitee.com/HexWarrior6/enterprise-network-setup-with-windows-server"><img alt="Gitee 仓库" src="https://img.shields.io/badge/Gitee-repo-red?logo=gitee"></a>
+    <a href="https://blog.csdn.net/qq_46300059/article/details/148394749"><img alt="CSDN 阅读量" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fblog.csdn.net%2Fqq_46300059%2Farticle%2Fdetails%2F148394749&search=%E9%98%85%E8%AF%BB%E9%87%8F%5CD*(%5Cd%2B)&logo=csdn&logoColor=black&label=CSDN&color=red"></a>
     <a href="https://github.com/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server/blob/master/LICENSE"><img alt="许可证" src="https://img.shields.io/github/license/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server.svg?color=blue"></a>
 </p>
 
@@ -100,4 +101,4 @@ graph TB
 
 ## 贡献 / 反馈建议
 
-如果你有任何建议、发现错误或希望贡献新的章节，请随时提交 Issues 或 Pull Requests！
+如果你有任何建议、发现错误或希望贡献新的章节，请随时转到 [github 仓库](https://github.com/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server) 提交 Issues 或 Pull Requests！
