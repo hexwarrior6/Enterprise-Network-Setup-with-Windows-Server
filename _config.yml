@@ -1,0 +1,12 @@
+title: Enterprise Network Setup with Windows Server
+remote_theme: pages-themes/minimal
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+github:
+  repository_name: https://hexwarrior6.github.io/Enterprise-Network-Setup-with-Windows-Server/README.html // change the link of the index

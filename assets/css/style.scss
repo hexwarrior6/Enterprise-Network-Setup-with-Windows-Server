@@ -1,0 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
+html {
+  zoom: 115%; /* 或者使用 transform: scale(1.25); */
+}
