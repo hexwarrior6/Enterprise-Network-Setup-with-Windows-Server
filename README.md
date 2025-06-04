@@ -5,7 +5,7 @@ English | [简体中文](README_zh-hans.md)
 <p align="center">
     <a href="https://github.com/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server"><img alt="Github repo" src="https://img.shields.io/github/last-commit/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server?logo=github"></a>
     <a href="https://gitee.com/HexWarrior6/enterprise-network-setup-with-windows-server"><img alt="Gitee repo" src="https://img.shields.io/badge/Gitee-repo-red?logo=gitee"></a>
-    <a href="https://blog.csdn.net/qq_46300059/article/details/148394749"><img alt="CSDN reading count" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fblog.csdn.net%2Fqq_46300059%2Farticle%2Fdetails%2F148394749&search=%E9%98%85%E8%AF%BB%E9%87%8F%5CD*(%5Cd%2B)&logo=csdn&logoColor=black&label=CSDN&color=red"></a>
+    <a href="https://blog.csdn.net/qq_46300059/category_12979897.html"><img alt="CSDN column reading volume" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fblog.csdn.net%2Fqq_46300059%2Fcategory_12979897.html&search=%3E%5Cb(1%5B7-9%5D%5Cd%7B2%7D%7C%5B2-9%5D%5Cd%7B3%2C%7D)%5Cb%3C&logo=csdn&label=Reading&color=green"></a>
     <a href="https://github.com/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server/blob/master/LICENSE"><img alt="license" src="https://img.shields.io/github/license/hexwarrior6/Enterprise-Network-Setup-with-Windows-Server.svg?color=blue"></a>
 </p>
 
